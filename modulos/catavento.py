@@ -18,7 +18,7 @@ def importa_estoque_planilha():
     print('A importação será realizada por meio da planilha excel.')
     print('Realizando conexão com a planilha.')
     print('Isto pode levar alguns minutos, por favor aguarde...')
-    estoque_df = pd.read_excel('estoque/estoquecompleto.xlsx')
+    estoque_df = pd.read_excel('estoque/estoquecatavento.xlsx')
     print('Conexão com a planilha realizada com sucesso.')
     print('Imprimindo dataframe obtido.')
     print('\n.')
