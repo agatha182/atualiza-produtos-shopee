@@ -7,11 +7,14 @@ def importa_estoque():
     print('[2] Importar estoque por meio da API.')
     print('\n')
     escolha = int(input('Escolha sua opção: '))
+    print('\n')
 
     if (escolha == 1):
         importa_estoque_planilha()
+        print('\n')
     if (escolha == 2):
         print('Infelizmente a conexão com a API ainda não está disponível.')
+        print('\n')
 
 
 def importa_estoque_planilha():
