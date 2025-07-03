@@ -1,4 +1,5 @@
 # Atualizar informações de produtos cadastrados na Shopee
+Este é o meu fork da aplicação do tiagolisboanovais, cujo README original segue abaixo:
 
 Esta é uma aplicação em python que visa facilitar o processo de atualização das informações de produtos que estejam cadastrados na Shopee. A forma inicial que iremos usar para atualizar estas informações, será através das planilhas de edição em massa fornecidos pela própria plataforma. Futuramente, caso consigamos acesso a API da plataforma, estabeleceremos uma comunicação direta, de forma que não será mais necessário fazer isto por meio de planilhas.
 
